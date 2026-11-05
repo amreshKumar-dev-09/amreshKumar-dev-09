@@ -1,7 +1,8 @@
- <!--
-  GitHub Profile README
-  Repository name: amreshkumar-dev-09
-  Keep this file named README.md
+
+<!--
+GitHub Profile README
+Repository name: amreshkumar-dev-09
+Keep this file named README.md
 -->
 
 <div align="center">
@@ -13,10 +14,6 @@
 *Building projects, strengthening DSA, and learning something new every day.*
 
 <img src="https://komarev.com/ghpvc/?username=amreshkumar-dev-09&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amreshkumar-dev-09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amresh-kumar-7957a2315)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amresh_kumar_009)
 
 </div>
 
@@ -116,7 +113,7 @@ Uncomment the cards after replacing the names.
 
 <!--
 <a href="https://github.com/amreshkumar-dev-09/YOUR_REPOSITORY_NAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=amreshkumar-dev-09&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true" alt="Featured Project"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=amreshkumar-dev-09&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true" alt="Featured Project"/>
 </a>
 -->
 
