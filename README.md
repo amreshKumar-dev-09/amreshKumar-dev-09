@@ -544,9 +544,9 @@ Uncomment the cards after replacing the names.\
 
 ### GitHub Statistics
 
-![](https://github-readme-stats.shion.dev/api?username=amreshkumar-dev-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amreshkumar-dev-09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amreshkumar-dev-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=amreshkumar-dev-09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=amreshkumar-dev-09\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="GitHub Statistics"/>
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=amreshkumar-dev-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=amreshkumar-dev-09\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Top Languages"/>
 
 ### Contribution Streak
 
