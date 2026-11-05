@@ -1,14 +1,24 @@
-# 👋 Hi, I'm Amresh Kumar
+ <!--
+  GitHub Profile README
+  Repository name: amreshkumar-dev-09
+  Keep this file named README.md
+-->
 
-<h3 align="center">Java Developer | Backend Development | Problem Solving</h3>
+<div align="center">
 
-<p align="center">
-  Building projects, strengthening DSA, and learning something new every day.
-</p>
+# Hi 👋, I'm Amresh Kumar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amreshkumar-dev-09&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
-</p>
+### Java Developer | Backend Development | Problem Solving
+
+*Building projects, strengthening DSA, and learning something new every day.*
+
+<img src="https://komarev.com/ghpvc/?username=amreshkumar-dev-09&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amreshkumar-dev-09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amresh-kumar-7957a2315)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amresh_kumar_009)
+
+</div>
 
 ---
 
@@ -28,23 +38,21 @@
 
 ## 🛠️ Languages and Technologies
 
+<div align="center">
+
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp" alt="Programming Languages"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp" alt="Programming Languages"/>
 
 ### Database & Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,spring" alt="Database and Backend Technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,spring" alt="Database and Backend Technologies"/>
 
 ### Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,idea,eclipse,vscode" alt="Development Tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,maven,gradle,idea,eclipse,vscode" alt="Development Tools"/>
+
+</div>
 
 ---
 
@@ -54,9 +62,9 @@
 
 ### GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amreshkumar-dev-09&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amreshkumar-dev-09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreshkumar-dev-09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreshkumar-dev-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 ### Contribution Streak
 
@@ -86,15 +94,13 @@
 
 ## ⭐ GitHub Profile Highlights
 
-<p align="center">
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Famreshkumar-dev-09&query=%24.public_repos&label=Public%20Repositories&color=6366f1&style=for-the-badge&logo=github" alt="Public Repositories"/>
 
 <img src="https://img.shields.io/github/followers/amreshkumar-dev-09?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
 
-<img src="https://img.shields.io/github/stars/amreshkumar-dev-09?affiliations=OWNER&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars"/>
-
-<img src="https://img.shields.io/badge/Repositories-Explore-6366f1?style=for-the-badge&logo=github" alt="Repositories"/>
-
-</p>
+</div>
 
 ---
 
@@ -102,51 +108,45 @@
 
 <div align="center">
 
-<!-- Replace the repository names below with your actual project repository names. -->
+<!--
+IMPORTANT:
+Replace YOUR_REPOSITORY_NAME with your actual GitHub repository names.
+Uncomment the cards after replacing the names.
+-->
 
-<a href="https://github.com/amreshkumar-dev-09/REPOSITORY_NAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=amreshkumar-dev-09&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true" alt="Featured Project"/>
+<!--
+<a href="https://github.com/amreshkumar-dev-09/YOUR_REPOSITORY_NAME">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=amreshkumar-dev-09&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true" alt="Featured Project"/>
 </a>
-
-<a href="https://github.com/amreshkumar-dev-09/REPOSITORY_NAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=amreshkumar-dev-09&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true" alt="Featured Project"/>
-</a>
+-->
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/amreshkumar-dev-09?tab=repositories">
-    <b>Explore All My Repositories →</b>
-  </a>
-</p>
+**Explore my projects:** [View All Repositories →](https://github.com/amreshkumar-dev-09?tab=repositories)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/amresh-kumar-7957a2315">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/amresh_kumar_009">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://instagram.com/amreshsingh_52">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://leetcode.com/amresh_kumar_009">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/amreshkumar09">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
-<a href="mailto:amreshkumar96179@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</p>
+</div>
 
 ---
 
