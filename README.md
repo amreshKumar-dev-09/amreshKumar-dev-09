@@ -1,23 +1,27 @@
+
 <!--
   GitHub Profile README
-  Profile: https://github.com/amreshKumar-dev-09
+  GitHub: amreshkumar-dev-09
 -->
 
 <div align="center">
 
 # 👋 Hi, I'm Amresh Kumar
 
-### ☕ Java Developer | Backend Development | Problem Solving
+### ☕ Java Developer | Backend Development | Problem Solver
 
-**Building with Java • Exploring Backend Development • Practicing DSA**
+**Building projects • Practicing DSA • Learning Backend Development**
+
+<img src="https://komarev.com/ghpvc/?username=amreshkumar-dev-09&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 
 <br/>
 
-<a href="https://github.com/amreshKumar-dev-09">
-  <img src="https://komarev.com/ghpvc/?username=amreshKumar-dev-09&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/amreshkumar-dev-09">
+  <img src="https://img.shields.io/github/followers/amreshkumar-dev-09?style=for-the-badge&logo=github&label=Followers&color=blue" alt="GitHub Followers"/>
 </a>
-<a href="https://github.com/amreshKumar-dev-09?tab=followers">
-  <img src="https://img.shields.io/github/followers/amreshKumar-dev-09?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers"/>
+
+<a href="https://github.com/amreshkumar-dev-09?tab=repositories">
+  <img src="https://img.shields.io/badge/View-Repositories-6366f1?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 
 </div>
@@ -26,37 +30,46 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science and Engineering student.
-- ☕ Focused on Java programming and backend development.
-- 💻 Interested in software engineering and problem-solving.
+- 🎓 Computer Science & Engineering student.
+- ☕ Passionate about Java programming and backend development.
+- 💻 Interested in building practical software applications.
 - 🗄️ Working with JDBC, SQL and MySQL.
 - 🧠 Practicing Data Structures and Algorithms.
-- 🚀 Building projects to strengthen my development skills.
-- 📚 Continuously learning and improving my technical knowledge.
+- 🛠️ Experienced with Java development tools and testing fundamentals.
+- 🚀 Continuously improving my problem-solving and development skills.
 
-**Currently focusing on:** Java, DSA, SQL and backend development.
+**Currently focusing on:** Java, DSA, SQL and Backend Development.
+
+📫 **Email:** [amreshkumar96179@gmail.com](mailto:amreshkumar96179@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills
-
-<div align="center">
+## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp" alt="Java C C++"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp" alt="Programming Languages"/>
+</p>
 
-### Database & Technologies
+### Database & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,bootstrap" alt="MySQL Bootstrap"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies"/>
+  <img src="https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-orange?style=for-the-badge" alt="JDBC"/>
+</p>
 
-### Tools & Development Environment
+### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,gradle,idea,eclipse,vscode" alt="Development Tools"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,idea,eclipse,vscode" alt="Development Tools"/>
+</p>
 
-</div>
+### Testing
 
-**Additional technologies:** JDBC, JUnit 5, SQL.
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit-5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
+</p>
 
 ---
 
@@ -66,40 +79,39 @@
 
 ### GitHub Statistics
 
-<a href="https://github.com/amreshKumar-dev-09">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amreshKumar-dev-09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics"/>
-</a>
-<a href="https://github.com/amreshKumar-dev-09">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreshKumar-dev-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<a href="https://github.com/amreshkumar-dev-09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amreshkumar-dev-09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 
-### ⭐ Contribution Streak
-
-<img width="75%" src="https://streak-stats.demolab.com?user=amreshKumar-dev-09&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-### 🏆 GitHub Achievements
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=amreshKumar-dev-09&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-
-### 📈 GitHub Profile Summary
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amreshKumar-dev-09&theme=tokyonight" alt="GitHub Profile Summary"/>
+<a href="https://github.com/amreshkumar-dev-09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreshkumar-dev-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
 
 </div>
 
 ---
 
-## 📌 GitHub Profile Highlights
+## ⭐ GitHub Profile Highlights
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FamreshKumar-dev-09&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=6366f1&logo=github" alt="Public Repositories"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Famreshkumar-dev-09&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=6366f1&style=for-the-badge&logo=github" alt="Total Public Repositories"/>
 
-<img src="https://img.shields.io/github/followers/amreshKumar-dev-09?label=GITHUB%20FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/amreshkumar-dev-09?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
 
 </div>
 
-*The GitHub statistics card above also displays stars earned across repositories.*
+**Stars earned, commits and other GitHub statistics** are displayed in the GitHub Statistics card above.
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=amreshkumar-dev-09&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
@@ -107,7 +119,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amreshKumar-dev-09&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amreshkumar-dev-09&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amreshkumar-dev-09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -115,27 +137,30 @@
 
 ## 🚀 Featured Projects
 
-### 1. University Management System (UMS)
+<div align="center">
 
-**Java | JDBC | MySQL | Maven | JUnit 5**
+**Explore my projects and development work:**
 
-- Developed a Java-based University Management System.
-- Worked with database connectivity using JDBC and MySQL.
-- Implemented database operations and relational database concepts.
-- Used Maven and JUnit 5 during development and testing.
+<a href="https://github.com/amreshkumar-dev-09?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
 
-🔗 [Explore my GitHub repositories](https://github.com/amreshKumar-dev-09?tab=repositories)
+</div>
+
+> My best projects are highlighted in the pinned repositories section of my GitHub profile.
 
 ---
 
-### 💻 More Projects
-
-Explore my repositories to discover my Java programs, DSA practice and development projects.
+## 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://github.com/amreshKumar-dev-09?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+<a href="https://leetcode.com/amresh_kumar_009">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/amreshkumar09">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
 </div>
@@ -147,16 +172,15 @@ Explore my repositories to discover my Java programs, DSA practice and developme
 <div align="center">
 
 <a href="https://linkedin.com/in/amresh-kumar-7957a2315">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://instagram.com/amresh_kumar_009">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+<a href="https://instagram.com/amreshsingh_52">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+
 <a href="mailto:amreshkumar96179@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://leetcode.com/amresh_kumar_009">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
@@ -167,8 +191,8 @@ Explore my repositories to discover my Java programs, DSA practice and developme
 
 ### 💡 "Consistency is the key to becoming a better developer."
 
-**Thanks for visiting my profile!** ⭐
+**Thanks for visiting my profile!**
 
-Feel free to explore my repositories and connect with me.
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
