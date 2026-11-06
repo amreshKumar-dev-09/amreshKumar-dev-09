@@ -73,21 +73,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### GitHub Statistics
-
-<a href="https://github.com/amreshkumar-dev-09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amreshkumar-dev-09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/amreshkumar-dev-09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreshkumar-dev-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
-
-</div>
 
 ---
 
@@ -139,6 +124,57 @@
 
 ---
 
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="./assets/overview.dark.svg" width="100%" alt="GitHub Overview"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="./assets/contributions.dark.svg" width="100%" alt="Contribution History"/>
+
+</div>
+
+---
+
+## 💻 Commit Activity
+
+<div align="center">
+
+<img src="./assets/cadence.dark.svg" width="100%" alt="Commit Activity"/>
+
+</div>
+
+---
+
+## 💡 Programming Languages
+
+<div align="center">
+
+<img src="./assets/languages.dark.svg" width="100%" alt="Programming Languages"/>
+
+</div>
+
+---
+
+## 📁 Repository Analytics
+
+<div align="center">
+
+<img src="./assets/repositories.dark.svg" width="100%" alt="Repository Statistics"/>
+
+</div>
+
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -202,86 +238,3 @@
 </div>
 
 
----
-
-## 📈 Contribution Activity & Commit Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amreshkumar-dev-09&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amreshkumar-dev-09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-**Explore my projects and development work:**
-
-<a href="https://github.com/amreshkumar-dev-09?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
-</a>
-
-</div>
-
-> My best projects are highlighted in the pinned repositories section of my GitHub profile.
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/amresh_kumar_009">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/amreshkumar09">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/amresh-kumar-7957a2315">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://instagram.com/amreshsingh_52">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="mailto:amreshkumar96179@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Consistency is the key to becoming a better developer."
-
-**Thanks for visiting my profile!**
-
-⭐ Feel free to explore my repositories and connect with me.
-
-</div>
